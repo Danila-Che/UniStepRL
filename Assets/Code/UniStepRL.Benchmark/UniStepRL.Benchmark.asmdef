@@ -1,0 +1,19 @@
+{
+    "name": "UniStepRL.Benchmark",
+    "rootNamespace": "UniStepRL.Benchmark",
+    "references": [
+        "GUID:4d32d201bc65a594299f1fcd02432495",
+        "GUID:b68e5853e5f21a149aac3824fd1b12a7",
+        "GUID:63a57c8b658089e49a173b0f0c4870a7",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
